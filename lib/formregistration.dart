@@ -69,7 +69,7 @@ class _registrationState extends State<registration> {
                 ],
               ),
               SizedBox(height: 20,),
-                Text("phone: " +myphone),
+                Text("phone : " +myphone),
               Column(
                 children: [
                   ElevatedButton(onPressed: () async {
